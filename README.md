@@ -2,6 +2,8 @@
 
 > A higher order component for loading components with dynamic imports.
 
+## NOTE: This fork is mostly meant for use with Meteor. I've done a proper port [`npdev:react-loadable`](https://github.com/CaptainN/npdev-react-loadable), which you can install through [atmosphere](https://atmospherejs.com/npdev/react-loadable). If you are using Meteor, you should probably use that one instead.
+
 ## Install
 
 ```sh
